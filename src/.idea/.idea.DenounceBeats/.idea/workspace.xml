@@ -5,7 +5,7 @@
     <projectFile profileName="https">DenounceBeatsAPI/DenounceBeatsAPI.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b1c959b-3def-401c-bc90-65625d361c8b" name="Changes" comment="" />
+    <list default="true" id="e7789d77-078e-40e6-9e92-f2ce39f99462" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,26 +14,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Abel-QL&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Abel-QL"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Abel-QL/Denounce-a-beast-P-II.git&quot;,
-    &quot;accountId&quot;: &quot;71944959-5225-4b14-9a23-3dc9af6f5a48&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Abel-QL/Denounce-a-beast-P-II.git",
+    "accountId": "71944959-5225-4b14-9a23-3dc9af6f5a48"
   }
-}</component>
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
-}</component>
-  <component name="ProjectId" id="39K1aqMrqSr3xOihTC0RMboIIw2" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="39K3ivCoWqpuxa8ULytXoCs9iku" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -41,21 +42,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    ".NET Launch Settings Profile.DenounceBeatsAPI: http.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "1-inicialize-solution",
+    "git-widget-placeholder": "Develop",
     "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -96,15 +89,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8b1c959b-3def-401c-bc90-65625d361c8b" name="Changes" comment="" />
-      <created>1770430017288</created>
+      <changelist id="e7789d77-078e-40e6-9e92-f2ce39f99462" name="Changes" comment="" />
+      <created>1770431078281</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1770430017288</updated>
-      <workItem from="1770430019317" duration="18000" />
-      <workItem from="1770430155422" duration="122000" />
-      <workItem from="1770430340628" duration="55000" />
-      <workItem from="1770430455530" duration="368000" />
+      <updated>1770431078281</updated>
+      <workItem from="1770431097259" duration="56000" />
     </task>
     <servers />
   </component>
@@ -113,9 +103,6 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$/../.." />
-    </ignored-roots>
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="XDebuggerManager">
